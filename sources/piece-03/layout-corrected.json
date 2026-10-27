@@ -173,7 +173,7 @@
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": true,
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/06.jpg",
