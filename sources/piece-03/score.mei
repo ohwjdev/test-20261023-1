@@ -161,15 +161,14 @@
                      </staffDef>
                      <staffGrp xml:id="i21" symbol="bracket" bar.thru="true">
                         <staffDef xml:id="i21-staff1" n="13" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="6" meter.unit="8">
-                           <label xml:id="label-13">Cors MI</label>
+                           <label xml:id="label-13">Cors LA</label>
                            <instrDef xml:id="instrDef-13"/>
                            <layerDef xml:id="layerDef-5" n="1" label="LA"/>
-                           <layerDef xml:id="layerDef-6" n="2" label="MI"/>
                         </staffDef>
                         <staffDef xml:id="i21-staff2" n="14" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="6" meter.unit="8">
                            <label xml:id="label-14">Cors MI</label>
                            <instrDef xml:id="instrDef-14"/>
-                           <layerDef xml:id="layerDef-7" n="2" label="MI"/>
+                           <layerDef xml:id="layerDef-6" n="2" label="MI"/>
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
