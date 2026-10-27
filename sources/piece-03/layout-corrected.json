@@ -170,34 +170,6 @@
 					"parts": []
 				}
 			]
-		},
-		{
-			"id": "i21",
-			"name": "Cors",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "LA"
-				},
-				{
-					"name": "MI"
-				}
-			],
-			"staves": [
-				{
-					"id": "i21-2",
-					"parts": [
-						0
-					]
-				},
-				{
-					"id": "i21-3",
-					"parts": [
-						1
-					]
-				}
-			]
 		}
 	],
 	"groups": [],
@@ -661,14 +633,14 @@
 					"uly": 2332,
 					"lrx": 2762,
 					"lry": 2397,
-					"staff": "i21-2"
+					"staff": "i22-1"
 				},
 				{
 					"ulx": 272,
 					"uly": 2498,
 					"lrx": 2763,
 					"lry": 2571,
-					"staff": "i21-3"
+					"staff": "i23-1"
 				},
 				{
 					"ulx": 272,
