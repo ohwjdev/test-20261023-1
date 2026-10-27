@@ -122,25 +122,23 @@
                         <instrDef xml:id="instrDef-4"/>
                      </staffDef>
                      <staffDef xml:id="i22-staff1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-5">Cors en LA LA</label>
+                        <label xml:id="label-5">Cors en LA</label>
                         <instrDef xml:id="instrDef-5"/>
-                        <layerDef xml:id="layerDef-1" n="1" label="LA"/>
                      </staffDef>
                      <staffDef xml:id="i23-staff1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-6">Cors en MI MI</label>
+                        <label xml:id="label-6">Cors en MI</label>
                         <instrDef xml:id="instrDef-6"/>
-                        <layerDef xml:id="layerDef-2" n="1" label="MI"/>
                      </staffDef>
                      <staffGrp xml:id="i17" symbol="bracket" bar.thru="true">
                         <staffDef xml:id="i17-staff1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-7">Violons 1</label>
                            <instrDef xml:id="instrDef-7"/>
-                           <layerDef xml:id="layerDef-3" n="1" label="1"/>
+                           <layerDef xml:id="layerDef-1" n="1" label="1"/>
                         </staffDef>
                         <staffDef xml:id="i17-staff2" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-8">Violons 2</label>
                            <instrDef xml:id="instrDef-8"/>
-                           <layerDef xml:id="layerDef-4" n="2" label="2"/>
+                           <layerDef xml:id="layerDef-2" n="2" label="2"/>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i18-staff1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
